@@ -1,0 +1,33 @@
+body {
+  color: #E3C2AE;
+  font-family: "Open Sans", sans-serif;
+  font-size: 0.95em;
+  background-color: #181924;
+  background-color: red;
+}
+
+a.nav-link,
+a {
+  color: #776651;
+  text-decoration: none;
+  font-weight: 500;
+}
+a.nav-link:hover,
+a:hover {
+  font-size: 0.95em;
+  color: #E3C2AE;
+  font-weight: 600;
+}
+a.nav-link:visited,
+a:visited {
+  color: #756552;
+  font-weight: 600;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 h6 {
+  font-family: "Noto Serif Display", serif;
+}

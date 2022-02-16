@@ -1,0 +1,19 @@
+
+.container {
+    width: 1200px;
+    max-width: 1200px;
+}
+
+@supports (-webkit-appearance:none) {
+    .container {
+        width: 1350px;
+        max-width: 1350px;
+    }
+}
+
+
+/* ====== TailwindCSS Directives ========== */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
